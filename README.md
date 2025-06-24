@@ -16,6 +16,7 @@ Java console application to manage and search sales records of stationery items 
 
 
 #Pseudocode
+
 Start
   Read number of students (N)
   
